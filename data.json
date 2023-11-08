@@ -1,0 +1,112 @@
+[
+  {
+    "guid": "d9687f41-e2e4-4a59-8ad3-6c29d925e12b",
+    "school": "Sunset University",
+    "mascot": "Sunny the Sun",
+    "nickname": "Sunbeams",
+    "location": "Sunville, Sunshine State",
+    "latlong": "34.1234, -78.5678",
+    "ncaa": "Division I",
+    "conference": "Sunshine Conference"
+  },
+  {
+    "guid": "a3b2c1e6-4f3d-4g5h6-i7j8-k9l0m1n2o3p4",
+    "school": "Starlight College",
+    "mascot": "Stardust the Star",
+    "nickname": "Stargazers",
+    "location": "Galaxy Heights, Cosmic Cluster",
+    "latlong": "45.6789, -123.4567",
+    "ncaa": "Division I",
+    "conference": "Cosmic Conference"
+  },
+  {
+    "guid": "1a2b3c4d-5e6f7-6g7h8-i9j0-k1l2m3n4o5",
+    "school": "Mountain View University",
+    "mascot": "Rocky the Mountain",
+    "nickname": "Mountaineers",
+    "location": "Peak City, Mountain Range",
+    "latlong": "38.9012, -106.1234",
+    "ncaa": "Division I",
+    "conference": "Mountain Conference"
+  },
+  {
+    "guid": "4e5a8c4f-9b6d-4f3b-9a8a-3a6b6c4d7e8",
+    "school": "Oceanfront College",
+    "mascot": "Sandy the Seahorse",
+    "nickname": "Wave Riders",
+    "location": "Beachside, Coastal Town",
+    "latlong": "27.5678, -80.1234",
+    "ncaa": "Division I",
+    "conference": "Coastal Conference"
+  },
+  {
+    "guid": "f4e2d7c3b-6a8c7-4b3f2-a4d3a-1a2b2c3d4e5",
+    "school": "Highland Hills University",
+    "mascot": "Hiker the Highland Hare",
+    "nickname": "Hilltoppers",
+    "location": "Summitville, Highland Region",
+    "latlong": "41.3456, -72.6789",
+    "ncaa": "Division I",
+    "conference": "Highland Conference"
+  },
+  {
+    "guid": "h1g2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5",
+    "school": "Rainbow State College",
+    "mascot": "Raindrop the Rainbow",
+    "nickname": "Rainbows",
+    "location": "Color City, Rainbow Territory",
+    "latlong": "36.1234, -98.5678",
+    "ncaa": "Division I",
+    "conference": "Rainbow Conference"
+  },
+  {
+    "guid": "i1j2k3l4-m5n6-o7p8-q9r0-s1t2u3v4w5",
+    "school": "Northern Lights University",
+    "mascot": "Nordic the Northern Light",
+    "nickname": "Auroras",
+    "location": "Aurora City, Northern Region",
+    "latlong": "44.5678, -106.1234",
+    "ncaa": "Division I",
+    "conference": "Northern Conference"
+  },
+  {
+    "guid": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5",
+    "school": "Maple Leaf College",
+    "mascot": "Maple the Maple Leaf",
+    "nickname": "Maple Leafs",
+    "location": "Leafy Town, Maple Forest",
+    "latlong": "43.9012, -79.1234",
+    "ncaa": "Division I",
+    "conference": "Maple Conference"
+  },
+  {
+    "guid": "m1n2o3p4-q5r6-s7t8-u9v0-w1x2y3z4a5",
+    "school": "Desert Sands University",
+    "mascot": "Sahara the Sand Dune",
+    "nickname": "Sandstorm",
+    "location": "Dunesville, Desert Region",
+    "latlong": "32.5678, -114.1234",
+    "ncaa": "Division I",
+    "conference": "Desert Conference"
+  },
+  {
+    "guid": "o1p2q3r4-s5t6-u7v8-w9x0-y1z2a3b4c5",
+    "school": "Great Plains College",
+    "mascot": "Plainsy the Bison",
+    "nickname": "Bison Stampede",
+    "location": "Buffalo City, Plains Territory",
+    "latlong": "39.9012, -95.1234",
+    "ncaa": "Division I",
+    "conference": "Plains Conference"
+  },
+  {
+    "guid": "p1q2r3s4-t5u6-v7w8-x9y0-z1a2b3c4d5e",
+    "school": "Mystic Bay University",
+    "mascot": "Misty the Mermaid",
+    "nickname": "Mariners",
+    "location": "Mystic Harbor, Coastal Cove",
+    "latlong": "28.5678, -82.1234",
+    "ncaa": "Division I",
+    "conference": "Coastal Conference"
+  }
+]
